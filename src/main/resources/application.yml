@@ -1,0 +1,13 @@
+#smtp mail properties
+mail:
+  smtp:
+       auth: true
+       starttls.enable: true
+       host: smtp.gmail.com
+       port: 587
+       username: yahyaouiabdelkader85@gmail.com
+       password: Grandi123 
+       protocol: smtp
+       senderName: Notification System
+       senderEmail: yahyaouiabdelkader85@gmail.com
+       
